@@ -7,4 +7,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ENTITIES\ENTITIES.csproj" />
+  </ItemGroup>
+
 </Project>

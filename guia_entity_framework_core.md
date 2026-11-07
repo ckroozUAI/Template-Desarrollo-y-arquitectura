@@ -11,7 +11,7 @@ Por ejemplo:
 Se recomienda seleccionar la última versión estable disponible dentro de esa versión principal.
 
 ### En la capa DAL
-
+ 
 En Visual Studio, hacer clic derecho sobre el proyecto **DAL → Administrar paquetes NuGet** e instalar:
 
 - `Microsoft.EntityFrameworkCore.SqlServer`
